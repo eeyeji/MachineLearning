@@ -1,4 +1,0 @@
-분류: 정확도(높을수록 좋음) -> precision, recall, flsocore, roc, auc
-회귀: mse(낮을수록 좋음), R^2(높을수록 좋음)
-
-
